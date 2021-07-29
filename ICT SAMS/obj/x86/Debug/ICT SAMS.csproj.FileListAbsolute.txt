@@ -1,0 +1,695 @@
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.REGISTER.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Users\admin\Desktop\alderson\Project\ICT SAMS\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+F:\Project\ICT SAMS1\ICT SAMS\bin\Debug\ICT SAMS.exe
+F:\Project\ICT SAMS1\ICT SAMS\bin\Debug\ICT SAMS.pdb
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.REGISTER.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+F:\Project\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS1\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+F:\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+F:\ICT SAMS2\ICT SAMS\bin\Debug\Employee Reg.mdb
+F:\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.mdb
+F:\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe
+F:\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.pdb
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+F:\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Licence\ \Elliot\´\Backups\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Licence\ \Elliot\´\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Users\admin\Desktop\alderson\DOCS\ICT SAMS2\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+E:\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+E:\ICT SAMS4\ICT SAMS\bin\Debug\Employee Reg.mdb
+E:\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.accdb
+E:\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.mdb
+E:\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe
+E:\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.pdb
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+E:\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.accdb
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Elliot\ICT SAMS4\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+F:\ICT SAMS41\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+F:\ICT SAMS41\ICT SAMS\bin\Debug\Employee Reg.mdb
+F:\ICT SAMS41\ICT SAMS\bin\Debug\Tasks.accdb
+F:\ICT SAMS41\ICT SAMS\bin\Debug\Tasks.mdb
+F:\ICT SAMS41\ICT SAMS\bin\Debug\ICT SAMS.exe
+F:\ICT SAMS41\ICT SAMS\bin\Debug\ICT SAMS.pdb
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Registration.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+F:\ICT SAMS41\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+H:\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+H:\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg.mdb
+H:\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg1.mdb
+H:\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.accdb
+H:\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.mdb
+H:\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe
+H:\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.pdb
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+H:\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Perf\ICT SAMS7\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\ICT SAMS7\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\Tasks.accdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\xampp\apache\Elliot\ICT SAMS8\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\Tasks.accdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\xampp\apache\Elliot\ICT SAMS10\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\Users\admin\Desktop\alderson\ICT SAMS12\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+H:\Files\ICT SAMS11a-20190215T112446Z-001\ICT SAMS11a\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+H:\Files\ICT SAMS11a-20190215T112446Z-001\ICT SAMS11a\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+H:\Files\ICT SAMS11a-20190215T112446Z-001\ICT SAMS11a\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+D:\Backups\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_As.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.piechart.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Completed.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+D:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.piechart.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Admin_Appraisal.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\xampp\apache\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\xampp\apache\Perf\ \ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\xampp\apache\Perf\ \ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\xampp\apache\Perf\ \ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+G:\Backups\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Admin_Appraisal.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+G:\Backups\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+E:\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+E:\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+E:\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Admin_Appraisal.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+E:\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+F:\Perf1\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraising.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Admin_Appraisal.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created_By_ADMIN.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Created.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+F:\Perf1\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\appraising.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\bin\Debug\appraising.accdb
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts1.resources
+C:\Perf\  \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Admin_Appraisal.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise_ADMIN1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Task_Create_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Create_ADMIN.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\appraising.accdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT SAMS.csprojResolveAssemblyReference.cache
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise_ADMIN1.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts1.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Task_Create_Supervisor.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Create_ADMIN.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\Perf\ \ICT SAMS11 FINAL PROJECT\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Perf\ \ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+D:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+D:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\appraising.accdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\Tasks.accdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\Tasks.mdb
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\Perf\ICT SAMS11\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise_ADMIN1.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts1.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Task_Create_Supervisor.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Create_ADMIN.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\Perf\ICT SAMS11\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+C:\ICT SPAM\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\ADMIN.accdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\appraising.accdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\Employee Reg.mdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\Employee Reg1.accdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\Employee Reg1.mdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\Tasks.accdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\Tasks.mdb
+C:\ICT SPAM\ICT SAMS\bin\Debug\ICT SAMS.exe
+C:\ICT SPAM\ICT SAMS\bin\Debug\ICT SAMS.pdb
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_ADMIN.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Add_Supervisor.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN_Login.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.ADMIN.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise_ADMIN1.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Appraise.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Charts1.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Login.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg_Admin.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_Reg.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Form1.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Login_as_Supervisor.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Properties.Resources.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Supervisor.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Task_Create_Supervisor.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Tasks_Create_ADMIN.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.View_Tasks.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.GenerateResource.Cache
+H:\Perf\ICT SPAM\ICT SAMS\bin\Debug\ICT SAMS.exe.config
+H:\Perf\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.exe
+H:\Perf\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.pdb
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT_SAMS.Employee_List.resources
+C:\ICT SPAM\ICT SAMS\obj\x86\Debug\ICT SAMS.csproj.CoreCompileInputs.cache

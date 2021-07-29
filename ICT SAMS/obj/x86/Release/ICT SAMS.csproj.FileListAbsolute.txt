@@ -1,0 +1,32 @@
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\ADMIN.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\Employee Reg.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\Employee Reg1.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\Employee Reg1.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\Tasks.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\Tasks.mdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\ICT SAMS.exe.config
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\ICT SAMS.pdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Add_ADMIN.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Add_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.ADMIN_Login.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.ADMIN.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Charts.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Employee_Login.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Employee_Reg_Admin.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Employee_Reg.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Employee.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Form1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Login_as_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Properties.Resources.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.View_Tasks.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT SAMS.csproj.GenerateResource.Cache
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT SAMS.exe
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT SAMS.pdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\bin\Release\appraising.accdb
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Appraise_ADMIN1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Appraise.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Charts1.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Task_Create_Supervisor.resources
+C:\Perf\ \ICT SAMS11\ICT SAMS\obj\x86\Release\ICT_SAMS.Tasks_Create_ADMIN.resources
