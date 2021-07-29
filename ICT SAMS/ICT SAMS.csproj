@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5067EE5D-2A85-4B59-857B-586663D4E00F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ICT_SAMS</RootNamespace>
+    <AssemblyName>ICT SAMS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add ADMIN.Designer.cs">
+      <DependentUpon>Add ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Supervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Supervisor.Designer.cs">
+      <DependentUpon>Add Supervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN Login.Designer.cs">
+      <DependentUpon>ADMIN Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN.Designer.cs">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Appraise ADMIN1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appraise ADMIN1.Designer.cs">
+      <DependentUpon>Appraise ADMIN1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Appraise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appraise.Designer.cs">
+      <DependentUpon>Appraise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="appraisingDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>appraisingDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="avg.cs" />
+    <Compile Include="Charts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charts.Designer.cs">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Charts1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Charts1.Designer.cs">
+      <DependentUpon>Charts1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee List.Designer.cs">
+      <DependentUpon>Employee List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Login.Designer.cs">
+      <DependentUpon>Employee Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Reg Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Reg Admin.Designer.cs">
+      <DependentUpon>Employee Reg Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee Reg.Designer.cs">
+      <DependentUpon>Employee Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Reg1DataSet.cs">
+      <DependentUpon>Employee_Reg1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Reg1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_Reg1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Reg1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_Reg1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Reg1DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_Reg1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_RegDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_RegDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_RegDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_RegDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_RegDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Employee_RegDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImplementedException.cs" />
+    <Compile Include="Login as Supervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login as Supervisor.Designer.cs">
+      <DependentUpon>Login as Supervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supervisor.Designer.cs">
+      <DependentUpon>Supervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task Create Supervisor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task Create Supervisor.Designer.cs">
+      <DependentUpon>Task Create Supervisor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks Create ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks Create ADMIN.Designer.cs">
+      <DependentUpon>Tasks Create ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TasksDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TasksDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TasksDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TasksDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TasksDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TasksDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View Tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Tasks.Designer.cs">
+      <DependentUpon>View Tasks.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add ADMIN.resx">
+      <DependentUpon>Add ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Supervisor.resx">
+      <DependentUpon>Add Supervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN Login.resx">
+      <DependentUpon>ADMIN Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN.resx">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appraise ADMIN1.resx">
+      <DependentUpon>Appraise ADMIN1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appraise.resx">
+      <DependentUpon>Appraise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts.resx">
+      <DependentUpon>Charts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Charts1.resx">
+      <DependentUpon>Charts1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee List.resx">
+      <DependentUpon>Employee List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Login.resx">
+      <DependentUpon>Employee Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Reg Admin.resx">
+      <DependentUpon>Employee Reg Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee Reg.resx">
+      <DependentUpon>Employee Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login as Supervisor.resx">
+      <DependentUpon>Login as Supervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Supervisor.resx">
+      <DependentUpon>Supervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task Create Supervisor.resx">
+      <DependentUpon>Task Create Supervisor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks Create ADMIN.resx">
+      <DependentUpon>Tasks Create ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Tasks.resx">
+      <DependentUpon>View Tasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="appraisingDataSet.xsc">
+      <DependentUpon>appraisingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="appraisingDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>appraisingDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="appraisingDataSet.xss">
+      <DependentUpon>appraisingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet.xsc">
+      <DependentUpon>Employee_Reg1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_Reg1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_Reg1DataSet.xss">
+      <DependentUpon>Employee_Reg1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet1.xsc">
+      <DependentUpon>Employee_Reg1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_Reg1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_Reg1DataSet1.xss">
+      <DependentUpon>Employee_Reg1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet2.xsc">
+      <DependentUpon>Employee_Reg1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_Reg1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_Reg1DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_Reg1DataSet2.xss">
+      <DependentUpon>Employee_Reg1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet.xsc">
+      <DependentUpon>Employee_RegDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_RegDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_RegDataSet.xss">
+      <DependentUpon>Employee_RegDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet1.xsc">
+      <DependentUpon>Employee_RegDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_RegDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_RegDataSet1.xss">
+      <DependentUpon>Employee_RegDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet2.xsc">
+      <DependentUpon>Employee_RegDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Employee_RegDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Employee_RegDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Employee_RegDataSet2.xss">
+      <DependentUpon>Employee_RegDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TasksDataSet.xsc">
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TasksDataSet.xss">
+      <DependentUpon>TasksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet1.xsc">
+      <DependentUpon>TasksDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TasksDataSet1.xss">
+      <DependentUpon>TasksDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet2.xsc">
+      <DependentUpon>TasksDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TasksDataSet2.xss">
+      <DependentUpon>TasksDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet3.xsc">
+      <DependentUpon>TasksDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TasksDataSet3.xss">
+      <DependentUpon>TasksDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet4.xsc">
+      <DependentUpon>TasksDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="TasksDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TasksDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TasksDataSet4.xss">
+      <DependentUpon>TasksDataSet4.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ADMIN.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="appraising.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Employee Reg.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Employee Reg1.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Employee Reg1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\df.jpg" />
+    <None Include="Resources\ict-department1.jpg" />
+    <None Include="Resources\index.png" />
+    <None Include="Resources\index1.png" />
+    <None Include="Resources\Supervisor image.jpg" />
+    <None Include="Resources\admin imag.jpg" />
+    <None Include="Resources\Images\login_icon %281%29.gif" />
+    <None Include="Resources\df1.jpg" />
+    <None Include="Screenshots\samp.PNG" />
+    <None Include="Screenshots\simp1.PNG" />
+    <None Include="Screenshots\simp3.PNG" />
+    <None Include="Screenshots\simp4.PNG" />
+    <None Include="Screenshots\simp5.PNG" />
+    <None Include="Screenshots\simp6.PNG" />
+    <None Include="Resources\Bac.jpg" />
+    <None Include="Screenshots\simp7.PNG" />
+    <Content Include="Tasks.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Tasks.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
